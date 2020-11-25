@@ -17,4 +17,18 @@ class CwEjemplo extends ModuleCore
         $this->description = 'Módulo de ejemplo par el curso';
         parent::__construct();
     }
+
+    public function install()
+    {
+        if (!parent::install() || !ConfigurationCore::updateValue('CWEJEMPLO_URL', 'http://urlejemplo.com'))
+            return false;
+        return true;
+    }
+
+    public function uninstall()
+    {
+        if (!parent::uninstall() || !ConfigurationCore::deleteByName('CWEJEMPLO_URL'))
+            return false;
+        return true;
+    }
 }

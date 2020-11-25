@@ -6,6 +6,14 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title> 3 predicciones para las Compras de la Temporada de Fiestas de 2020</title>
+    <link>https://www.prestashop.com/es/blog/predicciones-compras-temporada-fiestas</link>
+    <description>La Temporada de Fiestas de 2020 será diferente a todas las demás.</description>
+     <pubDate>Wed, 25 Nov 2020 10:00:00 +0100</pubDate>
+ <dc:creator>Edwina Yvonne Dendler</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/predicciones-compras-temporada-fiestas</guid>
+  </item>
+  <item>
     <title>¿Cómo gestionar métodos locales de pago en tu eCommerce?</title>
     <link>https://www.prestashop.com/es/blog/metodos-locales-de-pago</link>
     <description>El pago Online es todo un mundo en el eCommerce y lo queremos descubrir contigo.</description>
@@ -77,14 +85,6 @@ Una vez más, hemos de luchar contra la COVID-19 y  las medidas de contención 
      <pubDate>Mon, 02 Nov 2020 10:19:01 +0100</pubDate>
  <dc:creator>Alejandro Ramos</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/migrar-woocommerce-prestashop</guid>
-  </item>
-  <item>
-    <title>¿Qué es el Pogo Sticking en SEO y cómo evitarlo? </title>
-    <link>https://www.prestashop.com/es/blog/que-es-el-pogo-sticking</link>
-    <description></description>
-     <pubDate>Fri, 30 Oct 2020 10:00:00 +0100</pubDate>
- <dc:creator>Emilio Miguel López - Madre SEOperiora</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-el-pogo-sticking</guid>
   </item>
   </channel>
 </rss>
